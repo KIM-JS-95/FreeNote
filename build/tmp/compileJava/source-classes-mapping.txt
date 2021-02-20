@@ -1,0 +1,6 @@
+kr/co/domain/Student.java
+ kr.co.domain.Student
+ kr.co.domain.Student$City
+ kr.co.domain.Student$Sex
+kr/co/Application.java
+ kr.co.Application
