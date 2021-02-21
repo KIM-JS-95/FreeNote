@@ -1,4 +1,4 @@
-package kr.co.domain;
+package kr.co.Lec_1;
 
 
 import java.util.Arrays;

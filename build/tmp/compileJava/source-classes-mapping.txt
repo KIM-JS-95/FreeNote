@@ -1,6 +1,8 @@
-kr/co/domain/Student.java
- kr.co.domain.Student
- kr.co.domain.Student$City
- kr.co.domain.Student$Sex
+kr/co/Lec_1/Student.java
+ kr.co.Lec_1.Student
+ kr.co.Lec_1.Student$City
+ kr.co.Lec_1.Student$Sex
 kr/co/Application.java
  kr.co.Application
+kr/co/Lec_2/Calculator.java
+ kr.co.Lec_2.Calculator
