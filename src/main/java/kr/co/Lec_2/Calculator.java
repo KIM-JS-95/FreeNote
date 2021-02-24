@@ -15,6 +15,7 @@ public class Calculator {
         return x - y;
     }
 
+
     public static void main(String[] args) {
         double result1 = 10 * 10 * Calculator.pi;
 
@@ -25,4 +26,5 @@ public class Calculator {
         System.out.println(result3);
 
     }
+
 }

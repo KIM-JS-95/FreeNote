@@ -6,3 +6,5 @@ kr/co/Application.java
  kr.co.Application
 kr/co/Lec_2/Calculator.java
  kr.co.Lec_2.Calculator
+kr/co/Lec_3_Thread/Thread1.java
+ kr.co.Lec_3_Thread.Thread1
