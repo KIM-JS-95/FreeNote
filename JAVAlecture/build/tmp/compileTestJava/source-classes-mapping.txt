@@ -1,8 +1,0 @@
-kr/co/Lec_1/StudentTest.java
- kr.co.Lec_1.StudentTest
-kr/co/Lec_3_Thread/ThreadTest2.java
- kr.co.Lec_3_Thread.ThreadTest2
-kr/co/Lec_3_Thread/ThreadTest.java
- kr.co.Lec_3_Thread.ThreadTest
-kr/co/Lec_3_Overload/OverLoading.java
- kr.co.Lec_3_Overload.OverLoading
