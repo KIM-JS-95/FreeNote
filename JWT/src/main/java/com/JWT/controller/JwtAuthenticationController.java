@@ -27,6 +27,7 @@ public class JwtAuthenticationController {
     public ResponseEntity<?> createAuthenticationToken(@RequestBody JwtRequest authenticationRequest) throws Exception {
         final Member member = userDetailService.authenticateByEmailAndPassword
                 (authenticationRequest.getEmail(), authenticationRequest.getPassword());
+
         final String token = jwtTokenUtil.generateToken(member.getEmail());
         return ResponseEntity.ok(new JwtResponse(token));
     }

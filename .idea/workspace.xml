@@ -7,20 +7,19 @@
     <list default="true" id="0003e2e1-d033-483c-a2ea-689bafa43f7b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWT_Study/src/main/java/com/JWT/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWT_Study/src/main/java/com/JWT/config/JwtAuthenticationEntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/config/JwtAuthenticationEntryPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWT_Study/src/main/java/com/JWT/config/JwtAuthenticationProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/config/JwtAuthenticationProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWT_Study/src/main/java/com/JWT/config/JwtRequestFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/config/JwtRequestFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWT_Study/src/main/java/com/JWT/config/JwtTokenUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/config/JwtTokenUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWT_Study/src/main/java/com/JWT/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/config/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWT_Study/src/main/java/com/JWT/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWT_Study/src/main/java/com/JWT/controller/JwtAuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/controller/JwtAuthenticationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWT_Study/src/main/java/com/JWT/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/controller/MemberController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWT_Study/src/main/java/com/JWT/member/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/member/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWT_Study/src/main/java/com/JWT/member/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/member/MemberRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWT_Study/src/main/java/com/JWT/member/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/member/Role.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWT_Study/src/main/java/com/JWT/service/JwtUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/service/JwtUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JWT/build/classes/java/main/com/JWT/config/JwtAuthenticationProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JWT/build/classes/java/main/com/JWT/controller/MemberDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/build/classes/java/main/com/JWT/controller/MemberDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JWT/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/config/JwtAuthenticationProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/config/JwtAuthenticationProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/controller/JwtAuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/controller/JwtAuthenticationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/controller/MemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +30,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,13 +49,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote\JWT\src\main\java" />
       <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote\JWT\src" />
@@ -118,5 +127,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

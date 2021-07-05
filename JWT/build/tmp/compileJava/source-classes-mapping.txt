@@ -1,6 +1,5 @@
-com/JWT/controller/MemberController.java
- com.JWT.controller.MemberController
- com.JWT.controller.MemberDto
+com/JWT/config/WebSecurityConfig.java
+ com.JWT.config.WebSecurityConfig
 com/JWT/Application.java
  com.JWT.Application
 com/JWT/config/JwtAuthenticationEntryPoint.java
@@ -25,5 +24,6 @@ com/JWT/config/JwtRequestFilter.java
  com.JWT.config.JwtRequestFilter
 com/JWT/service/JwtUserDetailsService.java
  com.JWT.service.JwtUserDetailsService
-com/JWT/config/WebSecurityConfig.java
- com.JWT.config.WebSecurityConfig
+com/JWT/controller/MemberController.java
+ com.JWT.controller.MemberController
+ com.JWT.controller.MemberDto
