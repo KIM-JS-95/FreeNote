@@ -8,8 +8,12 @@
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.10/625fc0055674dff70dbc76efa36d0f2c89b04a24/lombok-1.18.10.jar" />
         </processorPath>
         <module name="FreeNote.JWT.main" />
+        <module name="FreeNote.Security.main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="11">
+      <module name="FreeNote.WooTechPreCource.main" target="15" />
+      <module name="FreeNote.WooTechPreCource.test" target="15" />
+    </bytecodeTargetLevel>
   </component>
 </project>
