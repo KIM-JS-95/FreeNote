@@ -7,6 +7,6 @@
 
 1. JWT
    
-2. 우아한 형제들 테크 코스 입사 2차 프리코스 문제 풀이
+2. Security
 
-[우테코 프리코스 문제 README 파일로 이동합니다.](./WooTechPreCource/README.md)
+3. LogIn/Out && Spring Security Web 처리
