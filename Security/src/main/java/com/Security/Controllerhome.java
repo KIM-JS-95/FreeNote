@@ -5,13 +5,16 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.RequestMapping;
 
-@RestController
+
 @Slf4j
 @RequiredArgsConstructor
+@org.springframework.stereotype.Controller
 public class Controller {
 
     @Autowired
@@ -20,6 +23,12 @@ public class Controller {
     @Autowired
     final PasswordEncoder passwordEncoder;
 
+    // home page
+    @RequestMapping("/")
+    public String homePage() {
+
+        return "home-page";
+    }
 
     @PostMapping("/api/member")
     public String saveMember(@RequestBody User memberDto) {
