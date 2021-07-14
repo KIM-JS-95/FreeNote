@@ -22,26 +22,7 @@ public class MemberController {
     @Resource(name = "userServiceImpl")
     private UserService userService;
 
-    /**
-     * initial
-     */
-    @RequestMapping(value = {"/", "/login"}, method = {RequestMethod.GET, RequestMethod.POST})
-    public String login(Model model) {
-        return "/auth/login";
-    }
 
-    /**
-     * Registration view
-     */
-    @RequestMapping(value = "/registration", method = RequestMethod.GET)
-    public String registration(Model model) {
-        model.addAttribute("account", new Account());
-        return "/auth/registration";
-    }
-
-    /**
-     * Registration form
-     */
     @RequestMapping(value = "/registration", method = RequestMethod.POST)
     public String createNewUser(Model model, @Valid Account account, BindingResult bindingResult) {
         try {
@@ -94,6 +75,16 @@ public class MemberController {
         return "/index";
     }
 
+    @RequestMapping(value = {"/", "/login"}, method = {RequestMethod.GET, RequestMethod.POST})
+    public String login(Model model) {
+        return "/auth/login";
+    }
+
+    @RequestMapping(value = "/registration", method = RequestMethod.GET)
+    public String registration(Model model) {
+        model.addAttribute("account", new Account());
+        return "/auth/registration";
+    }
 
     @RequestMapping(value = "/home/admin", method = RequestMethod.GET)
     public String adminHome(Model model) {
