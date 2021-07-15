@@ -11,7 +11,7 @@
 <body>
 <div class="container-fluid p-5 mt-5">
     <div class="text-light text-center my-5">
-        <h1 class="display-4 mb-4 text-uppercase">Welcome, <span th:text="${username}" class="text-success">Leo</span></h1>
+        <h1 class="display-4 mb-4 text-uppercase">Welcome, <span th:text="${username}" class="text-success">Leo</span> </h1>
         <form th:action="@{/logout}" method="get">
             <button class="btn btn-lg btn-info" name="registration" type="Submit">Logout</button>
         </form>
