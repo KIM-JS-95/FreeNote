@@ -45,12 +45,20 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     @Override
     protected void configure(HttpSecurity http) throws Exception {
         http
+                .headers()
+                .frameOptions().disable()
+
+                .and()
                 .csrf().disable()
-                .authorizeRequests().antMatchers("/authenticate", "/api/member").permitAll()
+                .authorizeRequests()
+                .antMatchers("/authenticate", "/api/member","/h2-console/**")
+                .permitAll()
                 .anyRequest().authenticated()
+
                 .and()
                 .exceptionHandling()
                 .authenticationEntryPoint(jwtAuthenticationEntryPoint)
+
                 .and()
                 .sessionManagement()
                 .sessionCreationPolicy(SessionCreationPolicy.STATELESS);

@@ -5,8 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0003e2e1-d033-483c-a2ea-689bafa43f7b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Jsoup.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LoginPage/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LoginPage/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JWT/build/classes/java/main/com/JWT/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/build/classes/java/main/com/JWT/config/WebSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JWT/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginPage/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LoginPage/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginPage/build/resources/main/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LoginPage/build/resources/main/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,10 +53,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
         <option value="Interface" />
+        <option value="package-info" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -62,12 +85,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LoginPage/src/main/resources" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Restaurant_System" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.12953371" />
     <property name="project.structure.side.proportion" value="0.3020638" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -77,11 +100,11 @@
       <recent name="com.wooTech.baseball" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote\JWT\src\main\resources" />
       <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote\LoginPage\src\main\resources" />
       <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote\LoginPage\src\main\resources\static" />
       <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote\LoginPage\src\main\resources\templates" />
       <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote\Security\src\main\resources\templates" />
-      <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote\Security\src\main\resources\static\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote\LoginPage\src\main\resources\static\lib" />
@@ -93,81 +116,16 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.Jsoup" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.Jsoup.controller" />
       <recent name="com.Security" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SpringBootSecurityApplication">
-    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wooTech.baseball.Application" />
-      <module name="FreeNote.WooTechPreCource" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wooTech.baseball.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <extension name="net.ashald.envfile">
-        <option name="IS_ENABLED" value="false" />
-        <option name="IS_SUBST" value="false" />
-        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
-        <option name="IS_IGNORE_MISSING_FILES" value="false" />
-        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
-        <ENTRIES>
-          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
-        </ENTRIES>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application (2)" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wooTech.baseball.Application" />
-      <module name="FreeNote" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wooTech.baseball.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <extension name="net.ashald.envfile">
-        <option name="IS_ENABLED" value="false" />
-        <option name="IS_SUBST" value="false" />
-        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
-        <option name="IS_IGNORE_MISSING_FILES" value="false" />
-        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
-        <ENTRIES>
-          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
-        </ENTRIES>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application (3)" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java.com.wooTech.baseball.Application" />
-      <module name="FreeNote.JWT.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.JWT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <extension name="net.ashald.envfile">
-        <option name="IS_ENABLED" value="false" />
-        <option name="IS_SUBST" value="false" />
-        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
-        <option name="IS_IGNORE_MISSING_FILES" value="false" />
-        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
-        <ENTRIES>
-          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
-        </ENTRIES>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestControllerTest.Parsing">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.JWT.Application" />
       <module name="FreeNote.JWT.main" />
       <extension name="coverage">
@@ -175,57 +133,6 @@
           <option name="PATTERN" value="com.JWT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java.com.wooTech.baseball.Application" />
-      <module name="FreeNote.baseball.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java.com.wooTech.baseball.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Security.Application" />
-      <module name="FreeNote.Security.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Security.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="15" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.Security.Application" />
-      <module name="FreeNote" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Security.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <extension name="net.ashald.envfile">
-        <option name="IS_ENABLED" value="false" />
-        <option name="IS_SUBST" value="false" />
-        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
-        <option name="IS_IGNORE_MISSING_FILES" value="false" />
-        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
-        <ENTRIES>
-          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
-        </ENTRIES>
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
@@ -244,18 +151,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringBootSecurityApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.login.SpringBootSecurityApplication" />
-      <module name="FreeNote.LoginPage.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.login.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="TestControllerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.Jsoup.controller.TestControllerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Jsoup:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestControllerTest.Parsing" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.Jsoup.controller.TestControllerTest.Parsing&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Jsoup:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="All in FreeNote" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="FreeNote" />
@@ -279,24 +215,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FreeNote.Jsoup.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Jsoup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Jsoup.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.Jsoup.controller.TestControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestControllerTest.Parsing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FreeNote.Jsoup.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Jsoup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Jsoup.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.Jsoup.controller.TestControllerTest" />
+      <option name="METHOD_NAME" value="Parsing" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Application" />
-      <item itemvalue="Application.Application (2)" />
-      <item itemvalue="Application.Application (3)" />
-      <item itemvalue="Application.Application (1)" />
-      <item itemvalue="Application.Application (4)" />
-      <item itemvalue="Application.Application (5)" />
-      <item itemvalue="Application.Application (6)" />
-      <item itemvalue="Application.SpringBootSecurityApplication" />
       <item itemvalue="JUnit.All in FreeNote" />
+      <item itemvalue="Gradle.TestControllerTest.Parsing" />
+      <item itemvalue="Gradle.TestControllerTest" />
+      <item itemvalue="JUnit.TestControllerTest" />
+      <item itemvalue="JUnit.TestControllerTest.Parsing" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SpringBootSecurityApplication" />
-        <item itemvalue="Application.Application (6)" />
-        <item itemvalue="Application.Application (5)" />
-        <item itemvalue="Application.Application (4)" />
-        <item itemvalue="Application.Application (1)" />
+        <item itemvalue="JUnit.TestControllerTest.Parsing" />
+        <item itemvalue="JUnit.TestControllerTest" />
+        <item itemvalue="Gradle.TestControllerTest.Parsing" />
+        <item itemvalue="Gradle.TestControllerTest" />
+        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
