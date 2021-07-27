@@ -5,29 +5,104 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0003e2e1-d033-483c-a2ea-689bafa43f7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Jsoup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/shopping.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/java/com/shopping/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/java/com/shopping/controller/indexcontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/java/com/shopping/entity/Drugs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/java/com/shopping/entity/DrugsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/java/com/shopping/entity/Url.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/java/com/shopping/service/DrugsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/banner/banner-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/banner/banner-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/blog/blog-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/blog/blog-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/blog/blog-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/blog/blog-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/blog/blog-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/blog/blog-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/blog/details/details-author.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/blog/details/details-hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/blog/details/details-pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/blog/sidebar/sr-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/blog/sidebar/sr-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/blog/sidebar/sr-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/breadcrumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/cart/cart-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/cart/cart-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/cart/cart-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/categories/cat-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/categories/cat-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/categories/cat-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/categories/cat-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/categories/cat-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/featured/feature-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/featured/feature-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/featured/feature-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/featured/feature-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/featured/feature-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/featured/feature-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/featured/feature-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/featured/feature-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/hero/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/language.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/latest-product/lp-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/latest-product/lp-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/latest-product/lp-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/payment-item.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/details/product-details-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/details/product-details-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/details/product-details-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/details/product-details-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/details/product-details-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/details/thumb-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/details/thumb-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/details/thumb-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/details/thumb-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/discount/pd-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/discount/pd-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/discount/pd-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/discount/pd-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/discount/pd-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/discount/pd-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/product-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/product-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/product-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/product-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/product-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/product-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/product-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/product-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/product-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/product-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/product-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/img/product/product-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/js/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/js/jquery.nice-select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/js/jquery.slicknav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/js/mixitup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/static/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping/src/main/resources/templates/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWT/build/classes/java/main/com/JWT/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/build/classes/java/main/com/JWT/config/WebSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWT/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/JWT/src/main/java/com/JWT/config/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LoginPage/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LoginPage/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LoginPage/build/resources/main/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LoginPage/build/resources/main/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginPage/src/main/resources/static/lib/fontawesome-free-5.12.1-web/js/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/LoginPage/src/main/resources/static/lib/fontawesome-free-5.12.1-web/js/all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginPage/src/main/resources/static/lib/fontawesome-free-5.12.1-web/js/all.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/LoginPage/src/main/resources/static/lib/fontawesome-free-5.12.1-web/js/all.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginPage/src/main/resources/static/lib/fontawesome-free-5.12.1-web/js/fontawesome.js" beforeDir="false" afterPath="$PROJECT_DIR$/LoginPage/src/main/resources/static/lib/fontawesome-free-5.12.1-web/js/fontawesome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginPage/src/main/resources/static/lib/fontawesome-free-5.12.1-web/js/fontawesome.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/LoginPage/src/main/resources/static/lib/fontawesome-free-5.12.1-web/js/fontawesome.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,9 +130,10 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
-        <option value="Interface" />
         <option value="package-info" />
         <option value="JUnit5 Test Class" />
+        <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -74,18 +150,23 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1ukN8oksucbhByD6kMQmLrYZrMC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Restaurant_System" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shopping/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.12953371" />
     <property name="project.structure.side.proportion" value="0.3020638" />
@@ -100,11 +181,11 @@
       <recent name="com.wooTech.baseball" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote\shopping\src\main\resources" />
+      <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote\shopping\src\main\resources\templates" />
+      <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote\shopping\src\main\resources\static" />
       <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote\JWT\src\main\resources" />
       <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote\LoginPage\src\main\resources" />
-      <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote\LoginPage\src\main\resources\static" />
-      <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote\LoginPage\src\main\resources\templates" />
-      <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote\Security\src\main\resources\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\JAESEUNG\IdeaProjects\FreeNote\LoginPage\src\main\resources\static\lib" />
@@ -124,13 +205,13 @@
       <recent name="com.Security" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestControllerTest.Parsing">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.JWT.Application" />
-      <module name="FreeNote.JWT.main" />
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shopping.App" />
+      <module name="FreeNote.shopping.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.JWT.*" />
+          <option name="PATTERN" value="com.shopping.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,19 +329,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.Application" />
-      <item itemvalue="JUnit.All in FreeNote" />
+      <item itemvalue="Application.App" />
       <item itemvalue="Gradle.TestControllerTest.Parsing" />
       <item itemvalue="Gradle.TestControllerTest" />
+      <item itemvalue="JUnit.All in FreeNote" />
       <item itemvalue="JUnit.TestControllerTest" />
       <item itemvalue="JUnit.TestControllerTest.Parsing" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="JUnit.TestControllerTest.Parsing" />
         <item itemvalue="JUnit.TestControllerTest" />
         <item itemvalue="Gradle.TestControllerTest.Parsing" />
         <item itemvalue="Gradle.TestControllerTest" />
-        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -294,5 +376,10 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FreeNote$App.ic" NAME="App Coverage Results" MODIFIED="1627379677118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.shopping.*</FILTER>
+    </SUITE>
   </component>
 </project>

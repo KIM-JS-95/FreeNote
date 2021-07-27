@@ -11,6 +11,7 @@
         <module name="FreeNote.JWT.main" />
         <module name="FreeNote.Security.main" />
         <module name="FreeNote.LoginPage.main" />
+        <module name="FreeNote.shopping.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
